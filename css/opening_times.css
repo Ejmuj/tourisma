@@ -27,7 +27,23 @@
     padding: 20px;
     font-size: 30px;
   }
+  .myButton {
+    border: none;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }
 
+  .myButton:hover {
+    background-color: rgb(0, 0, 0);
+    font-size: 10px;
+  }
+
+  a:hover {
+    color: white;
+  }
 
   a {
     font-size: 17px;
