@@ -47,16 +47,22 @@
   .item1 {
     grid-column: 1 / span 1;
     grid-row: 2;
+    background-color: rgb(255, 182, 182);
+    gap: 0px;
   }
 
   .item3 {
     grid-column: 2 / span 1;
     grid-row: 2;
+    background-color: rgb(255, 182, 182);
+    gap: 0px;
   }
 
   .item4 {
     grid-column: 3 / span 1;
     grid-row: 2;
+    background-color: rgb(255, 182, 182);
+    gap: 0px;
   }
 
   .item8 {
@@ -88,22 +94,54 @@
   }
 
   .item13 {
-    grid-column: 1 / span 2;
+    grid-column: 1 / span 3;
     grid-row: 6;
+    height: 150px;
+    background-color: rgb(255, 89, 89);
   }
 
   .item14 {
-    grid-column: 3 / span 1;
-    grid-row: 6;
+    grid-column: 1 / span 2;
+    grid-row: 7;
   }
 
   .item15 {
     grid-column: 1 / span 2;
-    grid-row: 7;
+    grid-row: 8;
+    text-align: left;
   }
 
   .item16 {
     grid-column: 3 / span 1;
-    grid-row: 7;
+    grid-row: 8;
+    padding: 0px;
   }
 
+  .item18 {
+    grid-column: 1 / span 3;
+    grid-row: 9;
+    height: 150px;
+    background-color: rgb(255, 89, 89);
+  }
+
+  .item19 {
+    grid-column: 1 / span 2;
+    grid-row: 10;
+  }
+
+  .item20 {
+    grid-column: 3 / span 1;
+    grid-row: 10;
+  }
+
+  .item21 {
+    grid-column: 1 / span 2;
+    grid-row: 11;
+    text-align: left;
+  }
+
+  .item22 {
+    grid-column: 3 / span 1;
+    grid-row: 11;
+    padding: 0px;
+  }
