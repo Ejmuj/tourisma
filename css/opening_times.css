@@ -46,11 +46,15 @@
   }
 
   a {
-    font-size: 17px;
+    font-size: 20px;
   }
 
   p {
-    font-size: 40px;
+    font-size: 16px;
+  }
+
+  p2 {
+    font-size: 32px;
   }
 
   .item2 {
